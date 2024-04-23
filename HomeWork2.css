@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Logo {
+  color: orangered;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.NotQesiz {
+  list-style-type: none;
+}
+
+.img_main {
+  background-image: url("https://s3-alpha-sig.figma.com/img/d30c/d090/9244cd6a3be94089053b70a898e7e451?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cDzcRIIYRnKt4xaeYmCIVNpIsa0gIdukyeojscpy8NuWFZGPllsDCSDu0Dq9MHGpI~pGzB7XCYrViwZbpIE-ZnTJVJFtLB19YQTuqV9zJ~msiZ2ERY3kl9gAkIb~-pqvp6A2huHyVXpxjt~wF4IItk-aUQ18thA2H98JlZttgweHWrgvA7Jsl3BN4Yx3oHRmo6AnjROwzJ0dhp0ytZSp9rGpowAyQi7PXm6KGsom5Dp7AjTiE5UWyi32hzEoNLmlIthpFvmvtBLI-AXI~0FaC~1DjK4qLe2Obha0IsyHiHdjajusVYcNTBbcvrhrmoPfvdsRIOZRuup9ez4Fh9TppQ__");
+
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 30px;
+}
+
+h6 {
+  color: white;
+}
+
+.h1 {
+  color: orangered;
+  font-weight: bold;
+  font-size: 33px;
+}
+h1 {
+  padding-top: 100px;
+  padding-left: 80px;
+}
+
+.LEARN_Button {
+  background-color: transparent;
+  border-radius: 5px;
+  border-color: white;
+  padding: 0px 20px 0px 20px;
+  height: 40px;
+  color: white;
+  margin-left: 80px;
+}
+
+.SUBMET_Button {
+  height: 40px;
+  color: white;
+  padding: 5px 20px 5px 20px;
+  border-radius: 5px;
+  background-color: orangered;
+  border-color: transparent;
+  margin-left: 5px;
+}
+
+.dzayin1234 {
+  margin-top: 80px;
+  margin-left: 100px;
+}
+
+.WeArwMetini {
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.WeArwParaqraf {
+  margin-left: 220px;
+}
+
+.p_center {
+  text-align: center;
+}
+
+.margin_top {
+  margin-top: 100px;
+}
+
+.sc_3 {
+  background-color: white;
+  margin: 50px;
+}
+
+.sc_4 {
+  background-color: lightgray;
+}
+
+.li_kub_fiqur {
+  background-color: white;
+  width: 285px;
+  height: 285px;
+}
+
+.h4_fiqur {
+  margin-top: 10px;
+}
+.sc_5 {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.sc_5_h3 {
+  text-align: left;
+}
+.sc_5_li {
+  margin-top: 10px;
+  width: 130px;
+  height: 130px;
+}
+.sade_10px_margin_top {
+  margin-top: 10xp;
+}
+
+.sc_5_bt {
+  border-color: orangered;
+  color: orangered;
+  padding: 10px;
+  background-color: white;
+}
+
+.sc_6 {
+  background-color: lightgray;
+}
+
+.sc_6_img {
+  width: 120px;
+  height: 64px;
+}
+
+.profil_img {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+
+  margin-left: 60px;
+}
+
+.sc_9 {
+  width: 800px;
+  height: 400px;
+  background-image: url(https://s3-alpha-sig.figma.com/img/75b5/c0d6/aa3e13c7465310229d970e2c13d9d922?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=guEtRgIBbHE0haIAUtzng6iRmkwwfPCjdyHOYYmZsYfRxEsPdzFLpTQzWzNcYQG938GnDEpdGmTFNThnZ7O4VdMeoRueSowDrtfN4R3XZ9Viz6YdkWwu0fS0zP3StqL~OVJLXsrejbdhiVFRSzArGsvpU8tINGzrWjc0kCzsl6DzvsjQxU8NwBZ3ELvanyVniz0wokIjwUhJfUmdkNAO7hSjVWVa6FkRh2~W46yPaQh37OSiYg0ymGwb2h-lOX0Ek7l8gqjKKRhVrx5Z9oDi-MSpzJvXKruQs6BwTY-hV6s-bkdorVloIkoCpEIW9q8cuCTYnniM9DiY-TwbM-4w4w__);
+}
+
+.footer {
+  background-color: #262626;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
